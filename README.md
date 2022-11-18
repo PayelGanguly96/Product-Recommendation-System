@@ -1,5 +1,5 @@
 # Product-Recommendation-System
-A recommendation system that predicts top items for customers based on ratings 
+A recommendation system that predicts top items for customers based on style shuffle ratings of the online fashion service Stitch Fix. 
 
 ## Dataset 
 The dataset consists of Style Shuffle ratings from users on items. Users rate items in (multiple)
